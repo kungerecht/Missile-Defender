@@ -1,0 +1,10 @@
+D:\Visual Studio\Final\Final\bin\Debug\Final.exe.config
+D:\Visual Studio\Final\Final\bin\Debug\Final.exe
+D:\Visual Studio\Final\Final\bin\Debug\Final.pdb
+D:\Visual Studio\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Final\Final\obj\Debug\Final.Properties.Resources.resources
+D:\Visual Studio\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+D:\Visual Studio\Final\Final\obj\Debug\Final.exe
+D:\Visual Studio\Final\Final\obj\Debug\Final.pdb
+D:\Visual Studio\Final\Final\obj\Debug\Final.MissileCommand1.resources
+D:\Visual Studio\Final\Final\obj\Debug\Final.Settings.resources
