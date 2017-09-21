@@ -1,0 +1,1 @@
+Hello this is an application that I built while going to University. I have uploaded it for the purpose of demonstrating my coding. If you wish to play, download and unzip then navigate to /Final/bin/Debug/ and launch the Final.exe application file (not Final.exe the XML file).
